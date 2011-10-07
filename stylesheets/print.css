@@ -1,0 +1,43 @@
+*{
+width:auto}
+#columns {background:none;}
+#header,#main-position-right,#topnav,#sidemenu-position, #footer,#ContenuAAfficher {
+display:none;
+}
+
+#columns, body{
+background:none;
+}
+
+#columns {border:none;}
+
+.Accordeon, .Accordeon div {
+display:block;
+}
+#main-position-left,#main-position {
+width:100%
+}
+
+.FAQ h2{
+float:none
+}
+.FAQ .Accordeon {
+float:none;
+width:auto;
+}
+
+.FAQ .Accordeon {
+width:
+}
+
+
+#main-position-left,#main-position {
+float:none
+}
+.PictoAcco{
+display:none
+}
+
+#columns {background:none;width:auto;}
+#page {width:auto;}
+.blocText {float:none;width:90%}
